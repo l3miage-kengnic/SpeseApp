@@ -4,7 +4,7 @@ Whith this application, i can calculate and track my expenses of each month and 
 NB: The literay language that i was using when writing this programme was italian.
 
 ## DB: a blocnote.txt sheet (depenses.txt) within the expenses for each month that i have noted for one or more years
-    Format of a line data:  "date;cost of expenses; motif of expenses"
+    Format of a line data:  "date; cost of expenses; motif of expenses"
 
 ## Programme application: takes input informations and displays what the user is going to request, beetween monthly expenses or total annual expenses
   input phase1 : indicat the date of the current day  
