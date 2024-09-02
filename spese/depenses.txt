@@ -1,0 +1,343 @@
+03/1/2021;80,00;dime
+09/1/2021;30,00;Moulinex
+11/1/2021;13,00;guanti
+12/1/2021;4,80;spese condimenti
+14/01/2021;161,27;(149,77+1.5)pagare medico posta,10 postmobile
+17/01/2021;16,00;Bolette(Luce e Gaz)
+23/01/2021;23,00;a Mr Tetto
+23/01/2021;21,20;andato Torino 
+24/01/2021;2,00;Duono ad una mama nel treno
+24/01/2021;1,80;Ticket Metropolitana
+24/01/2021;21,20;Ritorno Torino
+01/02/2021;23,50;Bolletta Acqua
+02/02/2021;2,83;spese(pane,Acqua, panino)
+05/02/2021;2,26;spese(panino e uova)
+11/02/2021;2,00;Spese gombo
+12/02/2021;13,81;Bolettina Gas
+12/02/2021;20,00;A Vivian per il Maroco
+05/02/2021;2,98;quaderni per il secdn Semstr
+05/02/2021;100,00;Affitto
+22/02/2021;4,57;Spese(biscuit,latte,condimenti,...)
+23/02/2021;8,48;spese domestici(bagno schiuma,spazzoline,lava mani,...)
+24/02/2021;32,00;Bollottina Luce
+24/02/2021;15,96;Mensa
+02/03/2021;15,00;(duono a Marlyne) 
+11/03/2021;14,80;( libro Elett 1;classeurs...)
+11/03/2021;2,00;(yogurt, acqua) 
+13/03/2021;3,95;(igienica, detersivo) 
+14/03/2021;3,00;(lessive habit da Dorette) 
+14/03/2021;3,20;(biscuit, yogurt, Acqua) 
+15/03/2021;0,59;(croissant) 
+17/03/2021;4,14;(Acqua, Uova, biscuit) 
+17/03/2021;75,00;(Affitto) 
+21/03/2021;10,00;(Lessiva vestiti miei) 
+26/03/2021;5,26;(biscuit,riso,condimnt,...) 
+28/03/2021;3,84;(biscott,Mayonese,pane)
+31/03/2021;2,00;(lava piatti,biscuits)
+02/04/2021;14,63;( medicinali inffiammazione) 
+02/04/2021;4,61;(spese biscuit, carotte, patatine) 
+07/04/2021;3,85;(spese pane, biscotti) 
+07/04/2021;52,60;(dîme 2nda rata) 
+08/04/2021;16,00;Marca da bollo per rinovo Permesso
+08/04/2021;5,00;(Foto 4×4)  
+09/04/2021;0,59;Fotocopie documenti
+09/04/2021;101,96;rinnovo permesso
+09/04/2021;3,93;spese(condimenti,oglio,pasta,fazzolett)
+09/04/2021;1,78;pena mattita
+09/04/2021;2,00;(borsa in plastica per Vivian) 
+11/04/2021;2,88;(Acqua,...) 
+11/04/2021;2,48;(Acqua, biscotti) 
+11/04/2021;15,30;Boletta Gaz
+15/04/2021;20,00;ricarica postMobile(Per chiamare all'estero) 
+16/04/2021;10,24; astuccio(custodia), stampa
+16/04/2021;0,62;Latte
+17/04/2021;7,00;per riparare scarpe(Stanmisch)
+19/04/2021;10,00;richiesta reddito di emergenza
+19/04/2021;101,00;Affitto(+1€ commissioni) 
+20/04/2021;34,5;Marca da Bollo16×2(2€ per comissioni, 0,5€ per stampare)
+20/04/2021;3,50;nuova Mascherina
+21/04/2021;41,92;Bolletta Luce
+22/04/2021;5,00;riparazione dello zaïno
+24/04/2021;1,00;pane
+25/04/2021;2,76;Acqua,condimenti
+27/04/2021;2,85;pane, fazzoletti
+29/04/2021;1,83;biscoti Furee, pane
+03/05/2021;22,89;carta identità (20€),biscotti;22,89€;carta identità (20€),biscotti
+03/05/2021;8,09;spese cibo;8,09;spese cibo
+04/05/2021;1,78;biscotti;1,78€;biscotti
+04/05/2021;10,00;Sostegno duolo Maxim
+06/05/2021;1,79;pane
+12/05/2021;6,50;lessiva giuboti
+16/05/2021;11,79;spese(riso, condimenti, pasta,.. ) 
+17/05/2021;58,92;Fattura gaz
+18/05/2021;8,91;spese domestici, spazzolino,... 
+20/05/2021;7,52;spese(oglio,maionese,sardina...) 
+22/05/2021;42,20;decima(reddito di emergenza) 
+24/05/2021;1,70;Biscotti
+25/05/2021;16,35;Boletta Acqua(35,99-19,64(rimborso gaz di Paul) =16,35)
+26/05/2021;8,00;boletta Luce
+27/05/2021;40,00;sostegno Momo
+27/05/2021;4,00;spese(acqua,biscotti) 
+28/05/2021;2,30;(bullon, visses) 
+29/05/2021;7,95;spese(salame,pane,...) 
+29/05/2021;2,50;aiuto per SDF in strada
+31/05/2021;6,55;spese(salame,biscotti,...) 
+03/06/2021;2,48;Acqua biscotti
+04/06/2021;5,00;Zaïno
+04/06/2021;5,00;Frutta
+05/06/2021;2,87;Acqua biscotti
+05/06/2021;10,00;Chiamata direttta al Camerun
+05/06/2021;27,00;Fattura WiFi 
+06/06/2021;6,27;riso,polo,condimenti
+07/06/2021;60,00;pagamento traduzione certifcto Esami (Ing-Franc) 
+08/06/2021;5,80;Pizza cheeseburger
+12/06/2021;4,00;Kebab
+16/06/2021;3,27;Acqua biscotti,Yogurt
+15/06/2021;7,00;Pizza cheeseburger
+18/06/2021;100,00;Affitto
+18/06/2021;20,00;per lenzuola(draps de lit)
+18/06/2021;0,66;Caffe Latte ciocco
+20/06/2021;2,30;biscotti,sardina
+19/06/2021;30,00;trasporto cose Vivian
+22/06/2021;33,00;sostegno Leonel(31€+2€) 
+22/06/2021;5,00;per esame e referto di urine
+22/06/2021;1,40;Acqua
+26/06/2021;2,42;Acqua,biscotti
+26/06/2021;10,00;postmobile
+27/06/2021;25,00;traduzione ITAL-FRAN
+29/06/2021;0,85;stampa,spazza denti
+27/06/2021;0,75;biscotti
+29/06/2021;30,44;bolletta Luce Enel
+29/06/2021;34,05;bollo virtuale di 32,stampa
+30/06/2021;18,00;betadin,impacci ferita
+04/07/2021;4,70;riso,pasta,biscott,...
+07/07/2021;0,65;Yogurt
+09/07/2021;20,00;creaz° postPay Evol
+09/07/2021;3,40;biscott, acqu,pena,stamp,... 
+15/07/2021;2,13;acqua, biscott
+16/07/2021;0,75;biscott
+17/07/2021;5,45;latte,coockies,Uova
+17/07/2021;100,00;Affitto
+17/07/2021;5,00;ricarica postMobile
+20/07/2021;4,00;cornecci
+21/07/2021;3,38;Acqua,cookies
+22/07/2021;22,10;viaggio andat-rtrno Ferrara(11,10×10) 
+23/07/2021;2,00;stampe documemti
+23/07/2021;33,00;frais Attestaz° di redditto
+24/07/2021;6,63;spese(uova, burro, Farina, latte,...) 
+24/07/2021;69,00;valigia
+24/07/2021;4,85;spese(cioccolato, pane) 
+27/07/2021;6,00;lessiva Giaccha e pantalone
+27/07/2021;1,50;spese(riso,..) 
+28/07/2021;1,38;Acqua
+28/07/2021;4,35;bagno schiuma,spugna
+29/07/2021;5,68;spese(riso,faggioli,...)
+ 30/07/2021;2,55;stampa doc
+30/07/2021;5,04;spese(latte,Uova,acqua,...) 
+31/07/2021;6,00;ricarica Rebtel
+01/08/2021;0,80;pane
+03/08/2021;6,45;detersivo,fazzoletti,... 
+03/08/2021;9,45;pizza
+03/08/2021;54,85;biglietto Roma
+04/08/2021;3,60;spese(latte,Farina,limone,...) 
+04/08/2021;52,98;Tickt FlixBus per Grenoble
+05/08/2021;2,58;acqua,cookies
+06/08/2021;15,00;Tampone Covid
+06/08/2021;8,00;versi velo
+06/08/2021;27,33;Wifi
+06/08/2021;4,00;bagage flixbus
+06/08/2021;5,00;polo da Bright
+08/08/2021;2,50;trasporto in Roma
+
+09/08/2021;3,00;bus Roma
+09/08/2021;2,00;cibo(Pulì) Roma
+09/08/2021;9,00;stampe Roma
+10/08/2021;procura ambsciata Camerun
+10/08/2021;1,40;stampe Roma
+10/08/2021;4,50;bus Roma
+12/08/2021;6,00;bus Roma
+12/08/2021;5,50;kebab,banana
+13/08/2021;3,00;bus Roma
+
+18/08/2021;146,00;(Affitto, Fattura gas)
+20/08/2021;1,45;cookies
+20/08/2021;81,35;ritorno a Parma
+21/08/2021;1,5;autobus
+24/08/2021;5,54;spese(riso,pasta,spazzadenti,...?) 
+20/08/2021;11,15;medicinali(ibuprofene e bactrim) 
+26/08/2021;56,61;(bollett Luce,Rifiutti) 
+26/08/2021;30,00;viaggio per Roma
+26/08/2021;3,00;ticket autobus Roma
+26/08/2021;2,95;cookies,croissants
+26/08/2021;6,00;stampe documenti
+27/08/2021;5,20;stampe documenti
+30/08/2021;9,00;rimborse Franck
+31/08/2021;25,10;bonifico Postp per OM Signora Elvige traduz° non fonct°
+2/09/2021;5,00;ricarica Rebtel
+02/09/2021;1,50;trasport Bus
+03/09/2021;2,4;pennello(pinceau) 
+03/09/2021;15,00;tampone covid
+03/09/2021;3,1;biscotti,panne,yogurt
+03/09/2021;10,36;bagno schium e latto corpo CALDODERMA
+03/09/2021;4,10;Medicinale Ictamol
+05/09/2021;50,00;Validat° online Visa séjour
+06/09/2021;3,00;imprimer docs(Corel) 
+06/09/2021;3,2;Ticket trame(1,60×2) 
+07/09/2021;20;(Abbonement Tag trame) 
+14/09/2021;1,1;(docs imprim)
+14/09/2021;11,00;(cahiers ) 
+17/09/2021;0,87;croissants
+18/09/2021;5,00;rebtel
+20/09/2021;0,84;croissants
+21/09/2021;1,09;biscuit 
+22/09/2021;1,93;lait et café choco
+25/09/2021;55,11;bolletta acqua Onorato
+27/09/2021;2,11;cahier et pain choco lait
+27/09/2021;5,00;tacos(avec Aurel) 
+28/09/2021;4,70;pizza,café choco latte
+28/09/2021;5;ricaricapostMobile
+04/10/2021;1,87;pain au pépite choco
+05/10/2021;3,2;ticket trame(carte oubliée) 
+05/10/2021;0,7;cafè(perdu) 
+05/10/2021;4,27;huile,pain au lait,lave main
+08/10/2021;1,40;(biscuit) 
+10/10/2021;3,2;(1,6x2 transport) 
+12/10/2021;0.33;La postMobile
+12/10/2021;4,5;kebab
+13/10/2021;9,6;(3,2x3 transport lund,..., mercrd) 
+13/10/2021;0,50;photocop
+13/10/2021;150,00;Abonnement Tag
+13/10/2021;1,72;biscuit
+13/10/2021;4,00;pizza poulet campus
+25/10/2021;40,00;multiples course (je n me rappel plus) 
+18/10/2021;1,38;pain au lait,biscuit
+19/10/2021;3,84;riz,lentilles
+01/11/2021;15;joggin(à Saint Bruno
+03/11/2021;51,21;(vetements: bluson, joggin chez Kiabi)  
+09/11/2021;4,53;(....)
+11/11/2021;5,00;( tacos chez 33)
+12/11/2021;6,29;(....)
+12/11/2021;4,40;(restau Crous midi)
+12/11/2021;0,70;(café choco)
+13/11/2021;7,00;( coiffure chez Emma)
+15/11/2021;3,30;(café restau DLST 11h) 
+15/11/2021;3,60;(sandwich resto univ) 
+15/11/2021;4,12;(pain, jus, yaourt) 
+15/11/2021;7,99;La postMobile
+16/11/2021;3,13;(pain, yaourt,beurre)
+
+18/11/2021;4,00;( pizza poulet resto)
+19/11/2021;4,95;(menu burger McDo)
+22/11/2021;6,20;(pizza kebab,sandwich pulet: restau condillac) 
+22/11/2021;0,70;(café choco) 
+23/11/2021;6,95;(chiken KFC) 
+23/11/2021;5,14;(course ldl: tomate,maïs,pain) 
+23/11/2021;7,17;course ldl(tomate fruit, condiment verts) 
+25/11/2021;2,85;sandwicht poul cafResto
+25/11/2021;0,90;(0,30€×3) café choco
+25/12/2021;60,00;(environ, dépensé pour le voyage à Strasbourg)
+26/11/2021;0,60;(0,30€×2) café choco
+01/12/2021;0,60;(cfe choco 0,30×2)
+02/12/2021;0,60;(cfe choco 0,30×2)
+03/12/2021;1,00;(pain,...Ldl)
+05/12/2021;5,50;(pain,thon,eponges Casino) 
+06/12/2021;0,60;(cfe choco 0,30×2)
+07/12/2021;1,35;(baguettes de pain ldl) 
+12/12/2021;2,34;pommes de terre Casino
+12/12/2021;5,00;Tacos marocaine merguez
+13/12/2021;0,55;(pain Casino)
+14/12/2021;8,06;La postMobile
+15/12/2021;0,60;(cfe choco 0,30)
+15/12/2021;5,33;( pain, yaourt pour Aurel (2,58€) )
+17/12/2021;2,90;pizza boeuf
+17/12/2021;5,00;( Tacos kebab) 
+22/12/2021;0,35;( stylos blue,...)
+22/12/2021;2,50;( burger chez B. King)
+23/12/2021;19,86;( course pour voyage Strasbourg)
+30/12/2021;1,45;(achat francprix)
+30/12/2021;4,23;(achats Gnt Casino)
+30/12/2021;2,10;(tasse tt à 2 euro)
+31/12/2021;5,25;(achats Casino)
+03/01/2021;4,70(tacos campus)
+04/01/2021;2,40;(achats Carfour)
+04/01/2021;6,74;(achats Casino)
+06/01/2021;0,30;(cafe choco)
+12/01/2021;37,99;(facture LaposteMobile) 
+12/01/2022;8,67;(course pasta,lardons,crème fraiche) 
+16/01/2022;2,00;imprimer Cv
+17/01/2022;0,30;café choco
+17/01/2022;5,95;achat Ldl
+18/01/2022;5,11;achat cacao café, chips, tomate(Casino) 
+20/01/2022;10,10;(cahiers Casino)
+21/01/2022;1,00;(credit Rebtel) 
+21/01/2022;5,00;(churrus)
+21/01/2022;18,75;(medicaments Hemoroïdes et gel hydroalco)
+21/01/2022;1,90; chips springles
+22/01/2022;5,00;(Tacos)
+23/01/2022;7,40;(viande achée) 
+23/01/2022;12,92;( course lardons, tomate,spaghetti,pasta,panna) 
+tomate,spaghetti,pasta,panna) 
+28/01/2022;15,59;(chocolat, lait,... LDL) 
+28/01/2022;100,00;(preconfirmat° logement Ouest) 
+31/01/2022;200,00;(Caution logement Ouest) 
+01/02/2022;189,00;(loyer Ouest février) 
+03/02/2022;4,70;(tacos) 
+07/02/2022;0,60;(cafe choco) 
+08/02/2022;0,30;(cafe choco)
+
+10/02/2022;2,00;(fst food KFC) 
+11/02/2022;4,70;(tacos campus) 
+14/02/2022;7,99;La postMobile
+15/02/2022;4,70;(tacos campus) 
+17/02/2022;5,00;(tacos chez 33) 
+17/02/2022;4,44;(pn au lait, glace ptit Casino) 
+19/02/2022;8,20;(tomate conserve) 
+21/02/2022;0,69;(peigne chez Zeem)
+21/02/2022;13,48;(ppier toilette, choco,  lotus, lait Ldl pour apparemment Ouest) 
+22/02/2022;7,46;(couverture,serviette Zeeman) 
+23/02/2022;3,82;(cahier,jus fraise G Casino) 
+24/02/2022 ;33,84;(draps,couv,ballais,...  chez Action) 
+25/02/2022 ;14,99;(ppier Alumin,film,sensodyne,deterg Vaisselle, toilette, brosses,...) 
+25/02/2022 ;5,00;(tacos kebab st Bruno) 
+26/02/2022 ;5,00;(tacos kebab st Bruno) 
+26/02/2022;5,58;(pomme de terre) 
+27/02/2022;4,12;(poulet Casino) 
+27/02/2022;10,89;(plantain pour mama Isabelle) 
+28/02/2022;0,30;(cafee choco) 
+01/03/2022;0,30;(cafee choco) 
+01/03/2022;2,17;(cirop menthe) 
+02/03/2022;6,00;(paraplui, essuie pied et paniers chez tt À 2€) 
+03/03/2022;4,10;(croissant,beurre casino) 
+03/03/2022;5,00;(Tacos st Bruno) 
+04/03/2022;2,16;(achat ldl) 
+08/03/2022;3,29;(achat Ldl) 
+11/03/2022;7,99;(La Poste Mobile) 
+13/03/2022;5,00;(fast food galette) 
+13/03/2022;289,00;(Loyer Ouest) 
+13/03/2022;5,00;Tacos poulet le 33
+13/03/2022;5,00;(fast food galette) 
+14/03/2022;65,09;(sceau, vaiselle, marmites Ouest à Action) 
+15/03/2022;12,56;(beure, biscuits,carta,javel, geldouche,.. Ldl) 
+19/03/2022;5,00;(Tacos st bruno) 
+19/03/2022;2,58;(Jus goyave p'tit Casino) 
+23/03/2022;8,05;(........boh.. ..) 
+23/03/2022;30,00;(shoping sport colant,...) 
+26/03/2022;10,00;(coiffure) 
+28/03/2022;0,30;(cafe choco) 
+28/03/2022;18,54;(condiments vert, mayonnaise,... Ld) 
+06/04/2022;7,84;course tomates,ail,... 
+12/04/2022;2,10;(cafe choco) 
+13/04/2022;289,00;(loyer Ouest) 
+13/04/2022;19,41;(courses Ldl)
+14/04/2022;5,58;(balais pour Aurel) 
+12/04/2022;9,99;La postMobile
+13/04/2022;4,90;(courses G Casino)
+16/04/2022;7,60;(WashOnline) 
+23/04/2022;8,27;(courses LDL) 
+25/04/2022;4,00;(pizza Condillac) 
+26/04/2022;11,34;painlait,fromage,jus Carfour
+27/04/2022;6,99;(chargeur calculatrice)
+28/04/2022;6,96;(maïs,pain,pates,Ldl)
+30/04/2022;40,00;(retrait voyage Formation Missionaire) 
+12/05/2022;2,18;(pain,jus banane Ldl)
+12/05/2022;9,99;La postMobile
