@@ -8,6 +8,10 @@ NB: The literay language that i was using when writing this programme was italia
 
 ## Programme application: takes input informations and displays what the user is going to request, beetween monthly expenses or total annual expenses
   input phase1 : indicat the date of the current day  
+  !SpeseIMG/SpeseImg1.png
+
   input phase2: indicate the month and year wanted to explore
+  !SpeseIMG/SpeseImg2.png
 
   output: the expenses of the month indicated and the total expenses of the year since january to the current day indicated
+  !SpeseIMG/SpeseImg3.png
