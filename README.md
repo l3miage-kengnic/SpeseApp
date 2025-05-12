@@ -14,4 +14,4 @@ NB: The literay language that i was using when writing this programme was italia
   ![alt text](https://github.com/l3miage-kengnic/SpeseApp/blob/main/SpeseIMG/SpeseImg2.png))?raw=true)
 
   output: the expenses of the month indicated and the total expenses of the year since january to the current day indicated
-  ![alt text](https://github.com/l3miage-kengnic/SpeseApp/blob/main/SpeseIMG/SpeseImg2.png))?raw=true)
+  ![alt text](https://github.com/l3miage-kengnic/SpeseApp/blob/main/SpeseIMG/SpeseImg3.png))?raw=true)
