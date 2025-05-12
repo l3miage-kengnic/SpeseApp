@@ -7,10 +7,10 @@ NB: The literay language that i was using when writing this programme was italia
     Format of a line data:  "date; cost of expenses; motif of expenses"
 
 ## Programme application: takes input informations and displays what the user is going to request, beetween monthly expenses or total annual expenses
-  input phase1 : indicat the date of the current day  
-  ![alt text](https://github.com/l3miage-kengnic/SpeseApp/blob/main/SpeseIMG/SpeseImg2.png))?raw=true)
+  input phase1 : indicate the date of the current day  
+  ![alt text](https://github.com/l3miage-kengnic/SpeseApp/blob/main/SpeseIMG/SpeseImg1.png))?raw=true)
 
-  input phase2: indicate the month and year wanted to explore
+  input phase2: indicate the month and year you want to explore
   ![alt text](https://github.com/l3miage-kengnic/SpeseApp/blob/main/SpeseIMG/SpeseImg2.png))?raw=true)
 
   output: the expenses of the month indicated and the total expenses of the year since january to the current day indicated
