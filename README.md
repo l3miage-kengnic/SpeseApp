@@ -1,7 +1,7 @@
 # SpeseApp
 
 Whith this application, i can calculate and track my expenses of each month and the sum of these expenses during the year selected
-NB: The literay language that i was using when writing this programme was *italian*.
+NB: The literay language that i was using when writing this programme was **italian**.
 
 ## DB: a blocnote.txt sheet (depenses.txt) within the expenses for each month that i have noted for one or more years
     Format of a line data:  "date; cost of expenses; motif of expenses"
